@@ -20,7 +20,7 @@ Installation
 In the Gemfile for your application:
 
     gem "devise", "~> 2.0"
-    gem "devise-radius-authenticatable"
+    gem "devise-radius-authenticatable", :git => "git://github.com/adjeielias90/devise-radius-authenticatable.git"
 
 Setup
 -----
